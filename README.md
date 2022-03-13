@@ -1,4 +1,4 @@
-<h1 align="center">WireworldMod</h1>
+<h1 align="center">Wireworld++</h1>
 <p align="center">Made in C++ with raylib</p>
 
 ## Demo
